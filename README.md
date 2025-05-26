@@ -22,4 +22,5 @@ npm install
 npm start
 
 ## ¡Listo! Usá el menú para interactuar.
-![image](https://github.com/user-attachments/assets/2a9e198f-6eda-4507-813c-3ff75fdb452d)
+![image](https://github.com/user-attachments/assets/f693c96b-367e-4757-89d7-1e57bd75a0d7)
+
